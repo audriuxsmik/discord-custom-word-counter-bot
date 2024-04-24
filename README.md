@@ -10,7 +10,7 @@ Simple discord.js custom word counter bot made using discord.js v14.
 
 ## Features
 
-- Easy with `config.js`customizability. 
+- Easy customizability with `config.js`. 
 - Simple and understandable code structure.
 - Simple discord slash commands.
 
