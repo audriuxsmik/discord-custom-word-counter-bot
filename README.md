@@ -6,7 +6,7 @@
 
 Simple discord.js custom word counter bot made using discord.js v14.
 
-![alt text](https://raw.githubusercontent.com/audriuxsmik/simple-firebase-system/main/showcase.png))
+![alt text](https://raw.githubusercontent.com/audriuxsmik/discord-custom-word-counter-bot/main/preview.png)
 
 ## Features
 
