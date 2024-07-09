@@ -78,7 +78,7 @@ client.on('interactionCreate', async (interaction) => {
     const userOption = options.get('user');
 
     if (!userOption.value.includes('<@')) {
-      return interaction.reply("Incorrect chosen username. Write with @!");
+      return interaction.reply("Username not found. Write with @!");
     }
     const user = userOption.value;
     const userId = userOption.value.replace(/[<@!>]/g, ''); 
